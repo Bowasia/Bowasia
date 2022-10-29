@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello! I'm Bow 👋
+(There's no profile pic on the card yet but you can see my face on the top left instead 😎) 
+
+[![okarnjan's 42 stats](https://badge.mediaplus.ma/darkblue/okarnjan?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 <!--
 **Bowasia/Bowasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
